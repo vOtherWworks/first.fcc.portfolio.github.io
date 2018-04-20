@@ -7,7 +7,7 @@ const myWorks = {
     EnterpriseI: {
         projectName: 'Enterprise I',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://source.code.com',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -33,7 +33,7 @@ const myWorks = {
     EnterpriseII: {
         projectName: 'Enterprise II',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://source.code.com',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -59,7 +59,7 @@ const myWorks = {
     EnterpriseIII: {
         projectName: 'Enterprise III',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://source.code.com',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -87,7 +87,7 @@ const myWorks = {
     EnterpriseIV: {
         projectName: 'Enterprise IV',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://source.code.com',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -114,7 +114,7 @@ const myWorks = {
     EnterpriseV: {
         projectName: 'Enterprise V',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://source.code.com',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -141,7 +141,7 @@ const myWorks = {
     EnterpriseVI: {
         projectName: 'Enterprise VI',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://source.code.com',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
