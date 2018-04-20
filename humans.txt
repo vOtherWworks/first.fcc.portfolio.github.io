@@ -1,0 +1,22 @@
+/* TEAM */
+    Front-end: Andrey Bondarenko | Vastted
+    Contact: {
+        mySite: 'https://mysite.com/',
+        otherContacts: 'otherContacts'
+    }
+    From: [Sity]
+
+
+
+/* THANKS */
+    (First) [Work]: [Name]
+    Twitter: [link]
+    From: [Sity]
+
+
+
+/* SITE */
+    Last update: 20/11/2017
+    Language: English
+    Doctype: HTML5
+    IDE: Sublime Text 3

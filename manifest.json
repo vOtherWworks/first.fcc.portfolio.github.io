@@ -1,0 +1,84 @@
+{
+    "name": "__projectName__",
+    "short_name": "__shortProjectName__",    
+    "description": "__projectName__ - __projectDescription__",
+    "author": "Andrey Bondarenko | Vastted",
+
+    "lang": "en",
+    "dir": "ltr",
+
+    "display": "standalone",
+    "orientation": "portrait",
+
+    "start_url": "/index.html",
+    "scope": "/",
+
+    "theme_color": "#38b0e3",
+    "background_color": "#111111",
+    
+    "icons": [
+        {
+            "src": "./images/icons/android/android-chrome-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "./images/icons/android/android-chrome-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "./images/icons/android/android-chrome-48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "./images/icons/android/android-chrome-64x64.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "./images/icons/android/android-chrome-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "./images/icons/android/android-chrome-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/images/icons/android/android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./images/icons/android/android-chrome-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "./images/icons/android/android-chrome-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "./images/icons/android/android-chrome-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "purpose": "any",
+            "src": "./images/icons/android/android-chrome.svg",
+            "type": "image/svg+xml",
+            "sizes": "513x513"
+        }
+    ],
+
+    "related_applications": [
+        {
+            "platform": "web",
+            "url": "__mySite__"
+        }
+    ]
+}

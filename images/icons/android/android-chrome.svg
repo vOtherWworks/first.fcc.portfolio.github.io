@@ -1,0 +1,18 @@
+<svg version="1.0.0" id="a_applet_logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve"> <!-- x="0px" y="0px" width="400px" height="400px" enable-background="new 0 0 256 256" -->
+
+
+	<linearGradient id="border" gradientUnits="userSpaceOnUse"> <!-- x1="36" y1="74" x2="36" y2="74" -->
+		<stop offset="0" style="stop-color:#38b0e3"/>
+		<stop offset="1" style="stop-color:#38b0e3"/>
+	</linearGradient>
+
+
+	<circle fill="url(#border)" stroke="#ffffff" stroke-width="4" stroke-miterlimit="10" cx="64" cy="64" r="62"/> <!-- for image/svg stroke-width="4" cx="33.1" cy="72.1"--> 
+	
+	<g transform="translate(23.5 20)"> <!-- -7.5 28 -->
+		<path fill="#ffffff" class="logo_svg_path" d="M12.76,85h6.33a6.54,6.54,0,0,0,5.67-3.27L28.06,76H22.29L36.14,52,50,28,63.86,52,77.71,76H71.94l3.31,5.73A6.54,6.54,0,0,0,80.91,85h6.33a3.5,3.5,0,0,0,3-5.25L71.65,47.5l-17.32-30a5,5,0,0,0-8.66,0l-17.32,30L9.73,79.75A3.5,3.5,0,0,0,12.76,85Z" transform="translate(-9.25 -15)"/>
+		<path fill="#ffffff" class="logo_svg_path" d="M48.27,49.23,39.8,63.89a2,2,0,0,0,1.73,3H58.46a2,2,0,0,0,1.73-3L51.73,49.23A2,2,0,0,0,48.27,49.23Z" transform="translate(-9.25 -15)"/>
+	</g>
+</svg>
+
+
