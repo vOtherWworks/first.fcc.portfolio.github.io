@@ -8,7 +8,7 @@ const myWorks = {
         projectName: 'Enterprise I',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -34,7 +34,7 @@ const myWorks = {
         projectName: 'Enterprise II',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -60,7 +60,7 @@ const myWorks = {
         projectName: 'Enterprise III',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -88,7 +88,7 @@ const myWorks = {
         projectName: 'Enterprise IV',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -115,7 +115,7 @@ const myWorks = {
         projectName: 'Enterprise V',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -142,7 +142,7 @@ const myWorks = {
         projectName: 'Enterprise VI',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -169,7 +169,7 @@ const myWorks = {
         projectName: 'Enterprise VII',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -196,7 +196,7 @@ const myWorks = {
         projectName: 'Enterprise VIII',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -223,7 +223,7 @@ const myWorks = {
         projectName: 'Enterprise IX',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -250,7 +250,7 @@ const myWorks = {
         projectName: 'Enterprise X',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -277,7 +277,7 @@ const myWorks = {
         projectName: 'Enterprise XI',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -304,7 +304,7 @@ const myWorks = {
         projectName: 'Enterprise XII',
         projectLink: '#',
         projectSourceCode: '#',
-        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
+        projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
