@@ -488,18 +488,18 @@ template {
     font-family: "work_sans";
     font-weight: normal;
     font-style: normal;
-    src: url("/fonts/Work_Sans/Regular/WorkSans_Regular.woff2") format("truetype"),
-            url("/fonts/Work_Sans/Regular/WorkSans_Regular.woff") format("woff"),
-            url("/fonts/Work_Sans/Regular/WorkSans_Regular.ttf") format("truetype");
+    src: url("./fonts/Work_Sans/Regular/WorkSans_Regular.woff2") format("truetype"),
+            url("./fonts/Work_Sans/Regular/WorkSans_Regular.woff") format("woff"),
+            url("./fonts/Work_Sans/Regular/WorkSans_Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "work_sans";
     font-weight: 500;
     font-style: normal;
-    src: url("/fonts/Work_Sans/Medium/WorkSans_Medium.woff2") format("truetype"),
-            url("/fonts/Work_Sans/Medium/WorkSans_Medium.woff") format("woff"),
-            url("/fonts/Work_Sans/Medium/WorkSans_Medium.ttf") format("truetype");
+    src: url("./fonts/Work_Sans/Medium/WorkSans_Medium.woff2") format("truetype"),
+            url("./fonts/Work_Sans/Medium/WorkSans_Medium.woff") format("woff"),
+            url("./fonts/Work_Sans/Medium/WorkSans_Medium.ttf") format("truetype");
 }
 /*───────────────────────────────────Main Font - work_sans*/
 
@@ -510,18 +510,18 @@ template {
     font-family: "playfair_display";
     font-weight: normal;
     font-style: normal;
-    src: url("/fonts/Playfair_Display/Regular/PlayfairDisplay_Regular.woff2") format("truetype"),
-            url("/fonts/Playfair_Display/Regular/PlayfairDisplay_Regular.woff") format("woff"),
-            url("/fonts/Playfair_Display/Regular/PlayfairDisplay_Regular.ttf") format("truetype");
+    src: url("./fonts/Playfair_Display/Regular/PlayfairDisplay_Regular.woff2") format("truetype"),
+            url("./fonts/Playfair_Display/Regular/PlayfairDisplay_Regular.woff") format("woff"),
+            url("./fonts/Playfair_Display/Regular/PlayfairDisplay_Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "playfair_display";
     font-weight: normal;
     font-style: italic;
-    src: url("/fonts/Playfair_Display/RegularItalic/PlayfairDisplay_RegularItalic.woff2") format("truetype"),
-            url("/fonts/Playfair_Display/RegularItalic/PlayfairDisplay_RegularItalic.woff") format("woff"),
-            url("/fonts/Playfair_Display/RegularItalic/PlayfairDisplay_RegularItalic.ttf") format("truetype");
+    src: url("./fonts/Playfair_Display/RegularItalic/PlayfairDisplay_RegularItalic.woff2") format("truetype"),
+            url("./fonts/Playfair_Display/RegularItalic/PlayfairDisplay_RegularItalic.woff") format("woff"),
+            url("./fonts/Playfair_Display/RegularItalic/PlayfairDisplay_RegularItalic.ttf") format("truetype");
 }
 /*───────────────────────────────────Second Main Font - playfair_display*/
 
@@ -532,18 +532,18 @@ template {
     font-family: "source_serif_pro";
     font-weight: normal;
     font-style: normal;
-    src: url("/fonts/Source_Serif_Pro/Regular/SourceSerifPro_Regular.woff2") format("truetype"),
-            url("/fonts/Source_Serif_Pro/Regular/SourceSerifPro_Regular.woff") format("woff"),
-            url("/fonts/Source_Serif_Pro/Regular/SourceSerifPro_Regular.ttf") format("truetype");
+    src: url("./fonts/Source_Serif_Pro/Regular/SourceSerifPro_Regular.woff2") format("truetype"),
+            url("./fonts/Source_Serif_Pro/Regular/SourceSerifPro_Regular.woff") format("woff"),
+            url("./fonts/Source_Serif_Pro/Regular/SourceSerifPro_Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "source_serif_pro";
     font-weight: 600;
     font-style: normal;
-    src: url("/fonts/Source_Serif_Pro/Semibold/SourceSerifPro_Semibold.woff2") format("truetype"),
-            url("/fonts/Source_Serif_Pro/Semibold/SourceSerifPro_Semibold.woff") format("woff"),
-            url("/fonts/Source_Serif_Pro/Semibold/SourceSerifPro_Semibold.ttf") format("truetype");
+    src: url("./fonts/Source_Serif_Pro/Semibold/SourceSerifPro_Semibold.woff2") format("truetype"),
+            url("./fonts/Source_Serif_Pro/Semibold/SourceSerifPro_Semibold.woff") format("woff"),
+            url("./fonts/Source_Serif_Pro/Semibold/SourceSerifPro_Semibold.ttf") format("truetype");
 }
 /*───────────────────────────────────Content Font - source_serif_pro*/
 /*───────────────────────────────────Fonts*/
