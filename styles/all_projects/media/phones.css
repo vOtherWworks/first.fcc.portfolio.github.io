@@ -1,0 +1,133 @@
+/*Phones landscape*/
+@media screen and (min-width: 480px) and (orientation: landscape) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/phones/480px_landscape.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/480px_landscape.css"*/
+    #main {
+        grid-template-columns: 1fr 1fr;
+    }
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/phones/480px_landscape.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*iPhone 6*/
+@media screen and (min-width: 375px) and (orientation: portrait) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/phones/375px_portrait.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/375px_portrait.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/phones/375px_portrait.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*iPhone 6 landscape*/
+@media screen and (min-width: 667px) and (orientation: landscape) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/phones/667px_landscape.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/667px_landscape.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/phones/667px_landscape.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*iPhone 6 Plus*/
+@media screen and (min-width: 414px) and (orientation: portrait) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/phones/414px_portrait.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/414px_portrait.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/phones/414px_portrait.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*iPhone 6 Plus landscape*/
+@media screen and (min-width: 736px) and (orientation: landscape) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/phones/736px_landscape.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/736px_landscape.css"*/
+    #main {
+        padding: 0 44px 0 44px;
+    }
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/phones/736px_landscape.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Header*/
+/*@import "../header/media/phones/custom.css"*/
+/*=include ../header/media/phones/custom.css*/
+/*───────────────────────────────────Header*/
+
+
+/*───────────────────────────────────Main*/
+/*@import "../main/media/phones/custom.css"*/
+/*=include ../main/media/phones/custom.css*/
+/*───────────────────────────────────Main*/
+
+
+/*───────────────────────────────────Footer*/
+/*@import "../footer/media/phones/custom.css"*/
+/*=include ../footer/media/phones/custom.css*/
+/*───────────────────────────────────Footer*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_phones.css.map */

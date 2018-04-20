@@ -1,0 +1,78 @@
+/*Medium Devices*/
+@media screen and (min-width : 768px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/tablets/768px.css"*/
+    #portfolio {
+        padding: 120px 0;
+    }
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/tablets/768px.css"*/
+    #projects_wrapper {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+    .project_item {
+        grid-column: auto;
+    }
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/tablets/768px.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*Medium Devices Landscape, Desktops*/
+@media screen and (min-width : 992px) and (orientation: landscape) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/tablets/992px_landscape.css"*/
+    #header svg {
+        display: block;
+    }
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/tablets/992px_landscape.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/tablets/992px_landscape.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Header*/
+/*@import "../header/media/tablets/custom.css"*/
+/*Phones landscape*/
+@media screen and (min-width: 568px) and (orientation: landscape) {
+    #portfolio {
+        padding: 140px 0;
+    }
+}
+/*───────────────────────────────────Header*/
+
+
+/*───────────────────────────────────Main*/
+/*@import "../main/media/tablets/custom.css"*/
+/*=include ../main/media/tablets/custom.css*/
+/*───────────────────────────────────Main*/
+
+
+/*───────────────────────────────────Footer*/
+/*@import "../footer/media/tablets/custom.css"*/
+/*=include ../footer/media/tablets/custom.css*/
+/*───────────────────────────────────Footer*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_tablets.css.map */

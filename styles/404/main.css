@@ -1,0 +1,47 @@
+#page_404 {
+    position: relative;
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--background_color, #111111);
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-family: "work_sans";
+}
+
+.go_home {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: var(--color_accent, #38b0e3);
+    border: 2px solid var(--color_accent, #38b0e3);
+    border-radius: 5px;
+    padding: 8px 22px 8px 22px;
+    justify-self: center;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    transition: all .5s ease;
+}
+
+.go_home:hover {
+    color: var(--color_white, #f2f2f2);
+    background-color: var(--color_accent, #38b0e3);
+    border-color: var(--color_accent, #38b0e3);
+}
+
+.ahhhhh {
+    color: var(--color_light_grey, #30363e);
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 4px;
+}
+
+.text_404 {
+    color: var(--color_white, #f2f2f2);
+    font-size: 22px;
+}
+/*# sourceMappingURL=_main.css.map */

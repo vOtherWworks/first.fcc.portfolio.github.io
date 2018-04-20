@@ -1,0 +1,27 @@
+/*Medium Devices*/
+@media screen and (min-width : 768px) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/tablets/768px.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*Medium Devices Landscape, Desktops*/
+@media screen and (min-width : 992px) and (orientation: landscape) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/tablets/992px_landscape.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Main*/
+/*@import "../main/media/tablets/custom.css"*/
+/*=include ../main/media/tablets/custom.css*/
+/*───────────────────────────────────Main*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_tablets.css.map */

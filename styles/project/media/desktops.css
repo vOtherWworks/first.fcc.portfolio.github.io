@@ -1,0 +1,94 @@
+@media screen and (min-width: 1024px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1024px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1024px.css"*/
+    #main {
+        grid-template-columns: 10px 1fr 1fr 10px;
+        grid-template-rows: 1fr;
+        justify-content: center;
+        align-content: center;
+        font-size: 18px;
+    }
+    
+    
+    
+    #description_wrapper {
+        grid-column: 2 / 3;
+        grid-row: 1 / 2;
+    }
+    
+    
+    
+    #description_wrapper,
+    #image_wrapper {
+        display: inline-grid;
+    }
+    
+    
+    
+    #image_wrapper {
+        grid-column: 3 / 4;
+        grid-row: 1 / 2;
+        height: 60vh;
+    }
+    /*───────────────────────────────────Main*/
+}
+
+
+
+@media screen and (min-width: 1280px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1280px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1280px.css"*/
+    #main {
+        grid-template-columns: 10rem 1fr 1fr 10rem;
+    }
+    
+    
+    
+    #image_wrapper {
+        height: 70vh;
+    }
+    /*───────────────────────────────────Main*/
+}
+
+
+
+@media screen and (min-width: 1920px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Header*/
+/*@import "../header/media/desktops/custom.css"*/
+/*=include ../header/media/desktops/custom.css*/
+/*───────────────────────────────────Header*/
+
+
+/*───────────────────────────────────Main*/
+/*@import "../main/media/desktops/custom.css"*/
+/*=include ../main/media/desktops/custom.css*/
+/*───────────────────────────────────Main*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_desktops.css.map */

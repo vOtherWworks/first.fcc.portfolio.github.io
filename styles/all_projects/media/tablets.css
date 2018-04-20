@@ -1,0 +1,65 @@
+/*Medium Devices*/
+@media screen and (min-width : 768px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/tablets/768px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/tablets/768px.css"*/
+    #main {
+        grid-template-columns: 1fr 1fr;
+    }
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/tablets/768px.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*Medium Devices Landscape, Desktops*/
+@media screen and (min-width : 992px) and (orientation: landscape) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/tablets/992px_landscape.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/tablets/992px_landscape.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/tablets/992px_landscape.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Header*/
+/*@import "../header/media/tablets/custom.css"*/
+/*=include ../header/media/tablets/custom.css*/
+/*───────────────────────────────────Header*/
+
+
+/*───────────────────────────────────Main*/
+/*@import "../main/media/tablets/custom.css"*/
+/*=include ../main/media/tablets/custom.css*/
+/*───────────────────────────────────Main*/
+
+
+/*───────────────────────────────────Footer*/
+/*@import "../footer/media/tablets/custom.css"*/
+/*=include ../footer/media/tablets/custom.css*/
+/*───────────────────────────────────Footer*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_tablets.css.map */

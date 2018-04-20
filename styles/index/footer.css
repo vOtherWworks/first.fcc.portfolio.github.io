@@ -1,0 +1,36 @@
+#footer {
+    max-width: 100vw;
+    display: grid;
+    border-top: 1px solid var(--color_grey, #ababab);
+    background-color: var(--color_white, #f2f2f2);
+    grid-row: 3 / 4;
+    position: relative;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    min-height: 200px;
+    letter-spacing: .15px;
+    font-family: "work_sans";
+    color: var(--color_black, #111111);
+
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+#footer .span_love {
+    display: block;
+    padding-top: 10px;
+}
+
+#footer .link_Andr {
+    text-decoration: none;
+    color: var(--color_accent, #38b0e3);
+    border-bottom: 1px solid var(--color_accent, #38b0e3);
+    transition: all 0.35s ease;
+}
+
+#footer .link_Andr:hover {
+    color: var(--color_black, #111111);
+    border-bottom: 1px solid var(--color_black, #111111);
+}
+/*# sourceMappingURL=_footer.css.map */

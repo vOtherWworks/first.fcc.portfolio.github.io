@@ -1,0 +1,34 @@
+@media screen and (min-width: 1024px) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1024px.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+@media screen and (min-width: 1280px) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1280px.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+@media screen and (min-width: 1920px) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Main*/
+/*@import "../main/media/desktops/custom.css"*/
+/*=include ../main/media/desktops/custom.css*/
+/*───────────────────────────────────Main*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_desktops.css.map */

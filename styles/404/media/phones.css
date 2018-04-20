@@ -1,0 +1,57 @@
+/*Phones landscape*/
+@media screen and (min-width: 480px) and (orientation: landscape) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/480px_landscape.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*iPhone 6*/
+@media screen and (min-width: 375px) and (orientation: portrait) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/375px_portrait.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*iPhone 6 landscape*/
+@media screen and (min-width: 667px) and (orientation: landscape) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/667px_landscape.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*iPhone 6 Plus*/
+@media screen and (min-width: 414px) and (orientation: portrait) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/414px_portrait.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*iPhone 6 Plus landscape*/
+@media screen and (min-width: 736px) and (orientation: landscape) {
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/phones/736px_landscape.css"*/
+    
+    /*───────────────────────────────────Main*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Main*/
+/*@import "../main/media/phones/custom.css"*/
+/*=include ../main/media/phones/custom.css*/
+/*───────────────────────────────────Main*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_phones.css.map */

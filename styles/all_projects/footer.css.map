@@ -1,0 +1,1 @@
+{"version":3,"sources":["_footer.css"],"names":[],"mappings":"AAAA;IACI,cAAc;IACd,cAAc;IACd,qBAAqB;IACrB,sBAAsB;;IAEtB,2BAA2B;IAC3B,oBAAoB;CACvB","file":"_footer.css","sourcesContent":["#footer {\r\n    height: 100px;\r\n    display: grid;\r\n    justify-content: end;\r\n    align-content: center;\r\n\r\n    /*padding: 0 40px 50px 0;*/\r\n    padding: 0 40px 0 0;\r\n}"]}

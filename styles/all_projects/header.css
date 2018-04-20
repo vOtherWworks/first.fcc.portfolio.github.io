@@ -1,0 +1,28 @@
+#header {
+    height: 100px;
+    display: grid;
+    justify-content: end;
+    align-content: center;
+
+    /*padding: 50px 40px 0 0;*/
+    padding: 0 40px 0 0;
+}
+
+.go_back {
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	    -ms-user-select: none;
+	        user-select: none;
+    font-size: 14px;
+    padding: 8px;
+    border: 1px solid var(--color_white, #f2f2f2);
+    border-radius: 3px;
+    transition: var(--transition_middle);
+    letter-spacing: 1px;
+    color: var(--color_white, #f2f2f2);
+}
+
+.go_back:hover {
+    background-color: var(--color_accent, #38b0e3);
+}
+/*# sourceMappingURL=_header.css.map */

@@ -1,0 +1,94 @@
+@media screen and (min-width: 1024px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1024px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1024px.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/desktops/1024px.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+@media screen and (min-width: 1280px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1280px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1280px.css"*/
+    #projects_wrapper {
+        grid-gap: 40px;
+    }
+    
+    .project_item:nth-child(1) {
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
+    }
+    
+    .project_item:nth-child(2) {
+        grid-column: 2 / 3;
+        grid-row: 1 / 2;
+    }
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/desktops/1280px.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+@media screen and (min-width: 1920px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Header*/
+/*@import "../header/media/desktops/custom.css"*/
+/*=include ../header/media/desktops/custom.css*/
+/*───────────────────────────────────Header*/
+
+
+/*───────────────────────────────────Main*/
+/*@import "../main/media/desktops/custom.css"*/
+/*=include ../main/media/desktops/custom.css*/
+/*───────────────────────────────────Main*/
+
+
+/*───────────────────────────────────Footer*/
+/*@import "../footer/media/desktops/custom.css"*/
+/*=include ../footer/media/desktops/custom.css*/
+/*───────────────────────────────────Footer*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_desktops.css.map */

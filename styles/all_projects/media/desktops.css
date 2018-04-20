@@ -1,0 +1,88 @@
+@media screen and (min-width: 1024px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1024px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1024px.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/desktops/1024px.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+@media screen and (min-width: 1280px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1280px.css"*/
+    #header {
+        padding: 50px 40px 0 0;
+    }
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1280px.css"*/
+    #main {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/desktops/1280px.css"*/
+    #footer {
+        padding: 0 40px 50px 0;
+    }
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+@media screen and (min-width: 1920px) {
+    /*───────────────────────────────────Header*/
+    /*@import "../header/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Header*/
+
+
+    /*───────────────────────────────────Main*/
+    /*@import "../main/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Main*/
+
+
+    /*───────────────────────────────────Footer*/
+    /*@import "../footer/media/desktops/1920px.css"*/
+    
+    /*───────────────────────────────────Footer*/
+}
+
+
+
+/*───────────────────────────────────Custom*/
+/*───────────────────────────────────Header*/
+/*@import "../header/media/desktops/custom.css"*/
+/*=include ../header/media/desktops/custom.css*/
+/*───────────────────────────────────Header*/
+
+
+/*───────────────────────────────────Main*/
+/*@import "../main/media/desktops/custom.css"*/
+/*=include ../main/media/desktops/custom.css*/
+/*───────────────────────────────────Main*/
+
+
+/*───────────────────────────────────Footer*/
+/*@import "../footer/media/desktops/custom.css"*/
+/*=include ../footer/media/desktops/custom.css*/
+/*───────────────────────────────────Footer*/
+/*───────────────────────────────────Custom*/
+/*# sourceMappingURL=_desktops.css.map */
