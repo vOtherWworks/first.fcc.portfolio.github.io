@@ -93,13 +93,6 @@ window.addEventListener('popstate', (event) => {
 
 
 
-//───────────────────────────────────ConsoleCreator
-import {ConsoleCreator} from '../helpers/other.js';
-ConsoleCreator();
-//───────────────────────────────────ConsoleCreator
-
-
-
 //───────────────────────────────────Exports
 export {RoutingURL};
 //───────────────────────────────────Exports
