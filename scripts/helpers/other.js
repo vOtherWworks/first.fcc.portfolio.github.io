@@ -7,8 +7,8 @@ const myWorks = {
     EnterpriseI: {
         projectName: 'Enterprise I',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -33,8 +33,8 @@ const myWorks = {
     EnterpriseII: {
         projectName: 'Enterprise II',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -59,8 +59,8 @@ const myWorks = {
     EnterpriseIII: {
         projectName: 'Enterprise III',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -87,8 +87,8 @@ const myWorks = {
     EnterpriseIV: {
         projectName: 'Enterprise IV',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -114,8 +114,8 @@ const myWorks = {
     EnterpriseV: {
         projectName: 'Enterprise V',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -141,8 +141,8 @@ const myWorks = {
     EnterpriseVI: {
         projectName: 'Enterprise VI',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -168,8 +168,8 @@ const myWorks = {
     EnterpriseVII: {
         projectName: 'Enterprise VII',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -195,8 +195,8 @@ const myWorks = {
     EnterpriseVIII: {
         projectName: 'Enterprise VIII',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -222,8 +222,8 @@ const myWorks = {
     EnterpriseIX: {
         projectName: 'Enterprise IX',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -249,8 +249,8 @@ const myWorks = {
     EnterpriseX: {
         projectName: 'Enterprise X',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -276,8 +276,8 @@ const myWorks = {
     EnterpriseXI: {
         projectName: 'Enterprise XI',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
@@ -303,8 +303,8 @@ const myWorks = {
     EnterpriseXII: {
         projectName: 'Enterprise XII',
         projectLink: '#',
-        projectSourceCode: 'https://github.com/Vastted/EnterpriseI',
-        projectImagePreview: '../../images/homeImages/backgroundImage.jpeg',
+        projectSourceCode: '#',
+        projectImagePreview: './../../images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
             './images/project/first-firewatch.jpg',
