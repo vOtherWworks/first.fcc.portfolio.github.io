@@ -7,7 +7,7 @@ const myWorks = {
     EnterpriseI: {
         projectName: 'Enterprise I',
         projectLink: '#',
-        projectSourceCode: 'https://source.code.com',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -33,7 +33,7 @@ const myWorks = {
     EnterpriseII: {
         projectName: 'Enterprise II',
         projectLink: '#',
-        projectSourceCode: 'https://source.code.com',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -59,7 +59,7 @@ const myWorks = {
     EnterpriseIII: {
         projectName: 'Enterprise III',
         projectLink: '#',
-        projectSourceCode: 'https://source.code.com',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         /*projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -87,7 +87,7 @@ const myWorks = {
     EnterpriseIV: {
         projectName: 'Enterprise IV',
         projectLink: '#',
-        projectSourceCode: 'https://source.code.com',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -114,7 +114,7 @@ const myWorks = {
     EnterpriseV: {
         projectName: 'Enterprise V',
         projectLink: '#',
-        projectSourceCode: 'https://source.code.com',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -141,7 +141,7 @@ const myWorks = {
     EnterpriseVI: {
         projectName: 'Enterprise VI',
         projectLink: '#',
-        projectSourceCode: 'https://source.code.com',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -168,7 +168,7 @@ const myWorks = {
     EnterpriseVII: {
         projectName: 'Enterprise VII',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -195,7 +195,7 @@ const myWorks = {
     EnterpriseVIII: {
         projectName: 'Enterprise VIII',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -222,7 +222,7 @@ const myWorks = {
     EnterpriseIX: {
         projectName: 'Enterprise IX',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -249,7 +249,7 @@ const myWorks = {
     EnterpriseX: {
         projectName: 'Enterprise X',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -276,7 +276,7 @@ const myWorks = {
     EnterpriseXI: {
         projectName: 'Enterprise XI',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
@@ -303,7 +303,7 @@ const myWorks = {
     EnterpriseXII: {
         projectName: 'Enterprise XII',
         projectLink: '#',
-        projectSourceCode: '#',
+        projectSourceCode: 'https://github.com/Enterprise',
         projectImagePreview: './images/homeImages/backgroundImage.jpeg',
         projectImages: [
             './images/project/backgroundImage.jpeg',
