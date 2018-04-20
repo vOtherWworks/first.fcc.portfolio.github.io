@@ -331,34 +331,6 @@ const myWorks = {
 
 
 
-//───────────────────────────────────Creator
-const ConsoleCreator = () => {
-    let projectText = `
-\r\n\r\n
-%1$cName:   %2$cFreeCodeCamp%1$c@1.0.0
-%1$cDate:   %3$c20.12.2017
-%1$cLast Modified:   %3$c11.01.2018
-
-%1$cMy site:   %3$chttps://github.com/Vastted
-%1$cCreator:   %3$cAndrey Bondarenko | Vastted
-\r\n\r\n
-    `;
-
-    let projectStyles = [
-        ``,
-        `font-size: 12px; text-transform: uppercase; font-family: Helvetica; font-weight: 800; line-height: 1.4em;`,
-        `font-size: 12px; text-transform: none; font-family: Helvetica; font-weight: 100; line-height: 1.4em;`
-    ];
-    
-
-    console.group('Creator:');
-    console.log(`${projectText}`, ...projectStyles);
-    console.groupEnd('Creator:');
-};
-//───────────────────────────────────Creator
-
-
-
 //───────────────────────────────────Exports
 export {
     myWorks,
