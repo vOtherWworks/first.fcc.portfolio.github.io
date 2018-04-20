@@ -333,9 +333,7 @@ const myWorks = {
 
 //───────────────────────────────────Exports
 export {
-    myWorks,
-
-    ConsoleCreator
+    myWorks
 };
 //───────────────────────────────────Exports
 //# sourceMappingURL=_other.js.map
