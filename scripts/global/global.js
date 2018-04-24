@@ -46,30 +46,30 @@ const RoutingURL = (pageURL, push = true) => {
     if (thisURL === '') {
         StartIndexBody();
         document.querySelector('head title').textContent = 'FreeCodeCamp';
-        push && historyPushState({url: `#${thisURL}`}, 'FreeCodeCamp', `./#`);
+        push && historyPushState({url: `./#`}, 'FreeCodeCamp', `./#`);
     }
     else if (thisURL in myWorks) {
         // StartProjectBody(thisURL, myWorks[thisURL].projectImages);
         StartProjectBody(thisURL);
         document.querySelector('head title').textContent = `${thisURL}`;
-        push && historyPushState({url: `#${thisURL}`}, `${thisURL}`, `./#${thisURL}`);
+        push && historyPushState({url: `./#${thisURL}`}, `${thisURL}`, `./#${thisURL}`);
     }
     else if (thisURL === 'all_projects') {
         StartAllProjectsBody('#');
         document.querySelector('head title').textContent = 'All Projects';
-        push && historyPushState({url: `#${thisURL}`}, 'All Projects', `./#${thisURL}`);
+        push && historyPushState({url: `./#${thisURL}`}, 'All Projects', `./#${thisURL}`);
     }
     else {
         Start404Body();
         document.querySelector('head title').textContent = '404 | Not Found';
-        push && historyPushState({url: `#${thisURL}`}, '404 | Not Found', `./#NotFound-${thisURL.replace('NotFound-', '')}`);
+        push && historyPushState({url: `./#${thisURL}`}, '404 | Not Found', `./#NotFound-${thisURL.replace('NotFound-', '')}`);
     }
 
 
     window.scrollTo(0, 0);
     fadeOut('#preloader_wrapper', 10);
 };
-RoutingURL();
+RoutingURL(false, false);
 //───────────────────────────────────RoutingURL
 
 
@@ -79,9 +79,9 @@ window.addEventListener('popstate', (event) => {
     // event.preventDefault();
     if (history.state) {
         RoutingURL(history.state.url, false);
-    } else {
+    } /*else {
         RoutingURL();
-    }
+    }*/
 });
 //───────────────────────────────────PopState
 
