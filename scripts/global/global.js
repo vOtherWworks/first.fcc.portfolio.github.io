@@ -85,13 +85,11 @@ window.addEventListener('popstate', (event) => {
     console.log('history.state.url or false:', (
         (history.state) ? (
             history.state.url) ? history.state.url : false
-        ) : false
-    )
+        ) : false)
     RoutingURL((
         (history.state) ? (
             history.state.url) ? history.state.url : false
-        ) : false
-    ), false);
+        ) : false), false);
     
     /*} else {
         RoutingURL();
