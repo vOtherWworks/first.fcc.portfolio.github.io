@@ -54,7 +54,7 @@ const RoutingURL = (pageURL, push = true) => {
         document.querySelector('head title').textContent = `${thisURL}`;
         push && historyPushState({url: `./#${thisURL}`}, `${thisURL}`, `./#${thisURL}`);
     }
-    else if (thisURL === 'all_projects') {
+    else if (thisURL === '#all_projects') {
         StartAllProjectsBody('#');
         document.querySelector('head title').textContent = 'All Projects';
         push && historyPushState({url: `./#${thisURL}`}, 'All Projects', `./#${thisURL}`);
