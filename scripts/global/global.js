@@ -39,7 +39,7 @@ const RoutingURL = (pageURL, push = true) => {
     fadeIn('#preloader_wrapper', 10);
 
 
-    let thisURL = pageURL || location.hash;
+    let thisURL = /*pageURL || */location.hash;
     thisURL = thisURL.replace(/^#/, '');
 
 
