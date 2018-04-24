@@ -77,9 +77,9 @@ RoutingURL(false, false);
 //───────────────────────────────────PopState
 window.addEventListener('popstate', (event) => {
     // event.preventDefault();
-    if (history.state) {
+    //if (history.state) {
         RoutingURL(history.state.url, false);
-    } /*else {
+    /*} else {
         RoutingURL();
     }*/
 });
