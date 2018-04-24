@@ -41,7 +41,7 @@ const RoutingURL = (pageURL, push = true) => {
 
     let thisURL = pageURL || location.hash;
     thisURL = thisURL.replace(/#/g, '');
-    console.log(thisURL);
+    console.log('thisURL:', thisURL);
 
 
     if (thisURL === '') {
@@ -79,9 +79,10 @@ RoutingURL(false, false);
 window.addEventListener('popstate', (event) => {
     // event.preventDefault();
     //if (history.state) {
+    console.log('history.state is true?',!!history.state)
+    console.log('history.state:', history.state)
+    console.log('history.state.url:', history.state.url)
         RoutingURL(history.state.url, false);
-    console.log(!!history.state)
-    console.log(history.state)
     /*} else {
         RoutingURL();
     }*/
