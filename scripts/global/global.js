@@ -79,10 +79,20 @@ RoutingURL(false, false);
 window.addEventListener('popstate', (event) => {
     // event.preventDefault();
     //if (history.state) {
+    
     console.log('history.state is true?',!!history.state)
     console.log('history.state:', history.state)
-    console.log('history.state.url or false:', ((history.state.url) ? history.state.url : false))
-        RoutingURL(((history.state.url) ? history.state.url : false), false);
+    console.log('history.state.url or false:', (
+        (history.state) ? (
+            history.state.url) ? history.state.url : false
+        ) : false
+    )
+    RoutingURL((
+        (history.state) ? (
+            history.state.url) ? history.state.url : false
+        ) : false
+    ), false);
+    
     /*} else {
         RoutingURL();
     }*/
